@@ -1,0 +1,13 @@
+#clickme{
+    background-color: #3b6a5e;
+    height: 60px;
+    width: 300px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+}
+#dog{
+    background-color: #3b6a5e;
+    width: 300px;
+    border: 2px solid black;
+}
